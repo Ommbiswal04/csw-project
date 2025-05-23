@@ -41,6 +41,12 @@ CSW PROJECT 2/
     ├── WhyChooseUs.css
     └── images/
         └── (product images)
+
+Running in Local Server
+1. Clone the repo.
+2. Install Java and Maven.
+3. Run mvn spring-boot:run in the backend directory.
+4. Open frontend/index.html in your browser.
 Getting Started
 1. Backend Setup
 Requirements: Java 8+ and Maven
