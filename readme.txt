@@ -102,12 +102,12 @@ Ensure the Spring Boot server is running (mvn spring-boot:run).
 
 Check for errors in the terminal.
 
-License
 This project is for educational/demo purposes.
 
-Author
-[Your Name/Team]
-
-[Contact or GitHub link, if desired]
+Authors
+--------
+1. R. Subhransu Mahapatra (2341013014)
+2. Om Biswal (2341002217)
+3. Chandra Sekhar Jena ()
 
 Happy Coding!
